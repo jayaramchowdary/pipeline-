@@ -1,8 +1,8 @@
-<h1> Hello, Welcome to devops !!   </h1>
+<!-- <h1> Hello, Welcome to devops !!   </h1>
 <h2> scripted pipeline is executed sucessfully </h2>
-<h2> THANKQ </h2>
+<h2> THANKQ </h2> -->
 
-<!-- <!DOCTYPE html>   
+<!DOCTYPE html>   
 <html>   
 <head>  
 <meta name="viewport" content="width=device-width, initial-scale=1">  
@@ -65,4 +65,4 @@ button {
 </body>     
 </html>
 
- -->
+
